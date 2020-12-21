@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\AccountingAssignment\AccountingAssignment\bin\Debug\AccountingAssignment.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\AccountingAssignment\AccountingAssignment\bin\Debug\AccountingAssignment.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\AccountingAssignment\AccountingAssignment\bin\Debug\AccountingAssignment.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.pdb
