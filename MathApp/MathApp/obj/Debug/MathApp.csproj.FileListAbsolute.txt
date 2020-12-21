@@ -1,0 +1,6 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\MathApp\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\MathApp\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\MathApp\MathApp\obj\Debug\MathApp.pdb
