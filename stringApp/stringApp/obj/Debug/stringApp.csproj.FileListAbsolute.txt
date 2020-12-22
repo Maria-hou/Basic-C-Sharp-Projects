@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\stringApp\stringApp\bin\Debug\stringApp.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\stringApp\stringApp\bin\Debug\stringApp.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\stringApp\stringApp\bin\Debug\stringApp.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\stringApp\stringApp\obj\Debug\stringApp.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\stringApp\stringApp\obj\Debug\stringApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\stringApp\stringApp\obj\Debug\stringApp.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\stringApp\stringApp\obj\Debug\stringApp.pdb
