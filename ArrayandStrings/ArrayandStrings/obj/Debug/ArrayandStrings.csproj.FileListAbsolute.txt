@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ArrayandStrings\ArrayandStrings\bin\Debug\ArrayandStrings.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ArrayandStrings\ArrayandStrings\bin\Debug\ArrayandStrings.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ArrayandStrings\ArrayandStrings\bin\Debug\ArrayandStrings.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ArrayandStrings\ArrayandStrings\obj\Debug\ArrayandStrings.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ArrayandStrings\ArrayandStrings\obj\Debug\ArrayandStrings.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ArrayandStrings\ArrayandStrings\obj\Debug\ArrayandStrings.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ArrayandStrings\ArrayandStrings\obj\Debug\ArrayandStrings.pdb
