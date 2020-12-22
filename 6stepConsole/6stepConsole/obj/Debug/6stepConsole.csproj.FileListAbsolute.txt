@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\6stepConsole\6stepConsole\bin\Debug\6stepConsole.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\6stepConsole\6stepConsole\bin\Debug\6stepConsole.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\6stepConsole\6stepConsole\bin\Debug\6stepConsole.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\6stepConsole\6stepConsole\obj\Debug\6stepConsole.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\6stepConsole\6stepConsole\obj\Debug\6stepConsole.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\6stepConsole\6stepConsole\obj\Debug\6stepConsole.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\6stepConsole\6stepConsole\obj\Debug\6stepConsole.pdb
