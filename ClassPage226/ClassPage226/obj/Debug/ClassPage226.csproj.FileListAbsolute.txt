@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage226\ClassPage226\bin\Debug\ClassPage226.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage226\ClassPage226\bin\Debug\ClassPage226.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage226\ClassPage226\bin\Debug\ClassPage226.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage226\ClassPage226\obj\Debug\ClassPage226.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage226\ClassPage226\obj\Debug\ClassPage226.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage226\ClassPage226\obj\Debug\ClassPage226.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage226\ClassPage226\obj\Debug\ClassPage226.pdb
