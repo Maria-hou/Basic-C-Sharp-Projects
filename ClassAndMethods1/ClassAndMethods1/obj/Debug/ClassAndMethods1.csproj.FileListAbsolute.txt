@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassAndMethods1\ClassAndMethods1\bin\Debug\ClassAndMethods1.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassAndMethods1\ClassAndMethods1\bin\Debug\ClassAndMethods1.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassAndMethods1\ClassAndMethods1\bin\Debug\ClassAndMethods1.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassAndMethods1\ClassAndMethods1\obj\Debug\ClassAndMethods1.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassAndMethods1\ClassAndMethods1\obj\Debug\ClassAndMethods1.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassAndMethods1\ClassAndMethods1\obj\Debug\ClassAndMethods1.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassAndMethods1\ClassAndMethods1\obj\Debug\ClassAndMethods1.pdb
