@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage227\ClassPage227\bin\Debug\ClassPage227.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage227\ClassPage227\bin\Debug\ClassPage227.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage227\ClassPage227\bin\Debug\ClassPage227.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage227\ClassPage227\obj\Debug\ClassPage227.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage227\ClassPage227\obj\Debug\ClassPage227.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage227\ClassPage227\obj\Debug\ClassPage227.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\ClassPage227\ClassPage227\obj\Debug\ClassPage227.pdb
