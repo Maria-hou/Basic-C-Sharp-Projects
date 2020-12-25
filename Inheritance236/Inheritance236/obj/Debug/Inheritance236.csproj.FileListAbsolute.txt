@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\Inheritance236\Inheritance236\bin\Debug\Inheritance236.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\Inheritance236\Inheritance236\bin\Debug\Inheritance236.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\Inheritance236\Inheritance236\bin\Debug\Inheritance236.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\Inheritance236\Inheritance236\obj\Debug\Inheritance236.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\Inheritance236\Inheritance236\obj\Debug\Inheritance236.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\Inheritance236\Inheritance236\obj\Debug\Inheritance236.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\Inheritance236\Inheritance236\obj\Debug\Inheritance236.pdb
