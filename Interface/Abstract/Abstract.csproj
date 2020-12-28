@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{28D1EF44-048D-4646-9382-0BF2AD5AD88A}</ProjectGuid>
+    <ProjectGuid>{5CB4FC3F-C78B-4BA6-9AC0-2086AAC7D017}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Abstract</RootNamespace>
     <AssemblyName>Abstract</AssemblyName>
@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Employee.cs" />
+    <Compile Include="IQuittable.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

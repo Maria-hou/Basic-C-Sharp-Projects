@@ -11,6 +11,10 @@ namespace Abstract
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public abstract void SayName();
+        public virtual void SayName()
+        {
+            Console.WriteLine("Name: " + firstName + " " + lastName);
+        }
+        
     }
 }
