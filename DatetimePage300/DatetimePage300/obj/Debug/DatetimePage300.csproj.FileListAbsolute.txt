@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\DatetimePage300\DatetimePage300\bin\Debug\DatetimePage300.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\DatetimePage300\DatetimePage300\bin\Debug\DatetimePage300.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\DatetimePage300\DatetimePage300\bin\Debug\DatetimePage300.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\DatetimePage300\DatetimePage300\obj\Debug\DatetimePage300.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\DatetimePage300\DatetimePage300\obj\Debug\DatetimePage300.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\DatetimePage300\DatetimePage300\obj\Debug\DatetimePage300.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\DatetimePage300\DatetimePage300\obj\Debug\DatetimePage300.pdb
