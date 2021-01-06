@@ -1,0 +1,14 @@
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\classesObjects\classesObjects\bin\Debug\classesObjects.exe.config
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\classesObjects\classesObjects\bin\Debug\classesObjects.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\classesObjects\classesObjects\bin\Debug\classesObjects.pdb
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\classesObjects\classesObjects\obj\Debug\classesObjects.csprojAssemblyReference.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\classesObjects\classesObjects\obj\Debug\classesObjects.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\classesObjects\classesObjects\obj\Debug\classesObjects.exe
+C:\Users\maria\Documents\GitHub\Basic-C-Sharp-Projects\classesObjects\classesObjects\obj\Debug\classesObjects.pdb
+C:\Users\maria\Desktop\Basic_C#_Programs\classesObjects\classesObjects\obj\Debug\classesObjects.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Basic_C#_Programs\classesObjects\classesObjects\obj\Debug\classesObjects.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Basic_C#_Programs\classesObjects\classesObjects\obj\Debug\classesObjects.exe
+C:\Users\maria\Desktop\Basic_C#_Programs\classesObjects\classesObjects\obj\Debug\classesObjects.pdb
+C:\Users\maria\Desktop\Basic_C#_Programs\classesObjects\classesObjects\bin\Debug\classesObjects.exe.config
+C:\Users\maria\Desktop\Basic_C#_Programs\classesObjects\classesObjects\bin\Debug\classesObjects.exe
+C:\Users\maria\Desktop\Basic_C#_Programs\classesObjects\classesObjects\bin\Debug\classesObjects.pdb
