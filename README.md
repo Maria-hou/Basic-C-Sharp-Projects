@@ -2,9 +2,9 @@
 These are basic projects written using C# as well as the .NET Framework.
 
 ## Projects
-- [Car Insurance](#Car-insurance)
-- [NewsLetter App](#Newsletter-app)
-- [Twenty One Game](#twenty-one-game)
+* [Car Insurance](#Car-insurance)
+* [NewsLetter App](#Newsletter-app)
+* [Twenty One Game](#twenty-one-game)
 
 
 ## [Car Insurance](https://github.com/Maria-hou/Basic-C-Sharp-Projects/tree/main/CarInsurance)
